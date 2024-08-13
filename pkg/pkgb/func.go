@@ -9,5 +9,5 @@ import (
 
 func FuncB() {
 	pkga.FuncA()
-	fmt.Printf("func a: %s\n", uuid.NewString())
+	fmt.Printf("func b: %s\n", uuid.NewString())
 }
