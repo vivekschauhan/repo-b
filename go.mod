@@ -1,4 +1,4 @@
-module github.com/vivekschauhan/repo-b
+module github.com/vivekschauhan/repo-b/v2
 
 go 1.21.6
 
