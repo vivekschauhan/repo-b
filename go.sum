@@ -1,4 +1,4 @@
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/vivekschauhan/repo-a v1.0.0 h1:3jsGQQ2rPZIHS+oWEM0AV6Z9NW3GlYEv9Qg59MUN1Js=
-github.com/vivekschauhan/repo-a v1.0.0/go.mod h1:llGDWWXK/G1TFi3ioQAhwJNexLRjq+hvGWjHKO4mJRI=
+github.com/vivekschauhan/repo-a/v2 v2.0.0 h1:k7vnauXC4UFOh4enzx5+SDIhhN76f+z+N1pcuIReaP8=
+github.com/vivekschauhan/repo-a/v2 v2.0.0/go.mod h1:4DzzjcYyUQ2oR5LtkQDjr9IGgGhbSem7qoEEFK+T/k0=

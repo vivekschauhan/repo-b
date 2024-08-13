@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/google/uuid"
-	"github.com/vivekschauhan/repo-a/pkg/pkga"
+	"github.com/vivekschauhan/repo-a/v2/pkg/pkga"
 )
 
 func FuncB() {
